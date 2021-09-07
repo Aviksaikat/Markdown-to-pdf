@@ -12,6 +12,9 @@ chmod +x markdown-to-pdf.sh
 ./markdown-to-pdf.sh <input.md> <output.md>
 ```
 
+https://user-images.githubusercontent.com/31238298/132361733-fc78f81a-901e-4648-9d1a-3da5234ad432.mp4
+
+
 ### Requirements
 
 - Pandoc
